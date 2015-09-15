@@ -1,4 +1,5 @@
 # grunt-svnNoversionToAdd
+<<<<<<< HEAD
 
 > a grunt plugin to change the svn status no-version to add
 
@@ -87,3 +88,6 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 _(Nothing yet)_
+=======
+Use grunt to change ths svn status frome no-version to add
+>>>>>>> 5b3e243eb9c7ce9f33a35120c4bc9cd74aa22ec6
