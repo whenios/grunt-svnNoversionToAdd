@@ -1,0 +1,57 @@
+{
+  "name": "grunt-svn-noversion2add",
+  "description": "a grunt plugin to change the svn status no-version to add",
+  "version": "0.1.2",
+  "homepage": "https://github.com/whenios/grunt-svnNoversionToAdd",
+  "author": {
+    "name": "sesamewen",
+    "email": "sesamewen@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/whenios/grunt-svnNoversionToAdd/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/whenios/grunt-svnNoversionToAdd/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "iconv-lite": ">=0.4.11"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "gitHead": "6b849211aafce47b9f0959536c48516d5cb407a8",
+  "_id": "grunt-svn-noversion2add@0.1.2",
+  "_shasum": "dd326c6e7fa7dda28b1ed5f7f912e3bb531c0082",
+  "_from": "grunt-svn-noversion2add@",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "sesamewen",
+    "email": "1013014002@qq.com"
+  },
+  "dist": {
+    "shasum": "dd326c6e7fa7dda28b1ed5f7f912e3bb531c0082",
+    "tarball": "http://registry.npmjs.org/grunt-svn-noversion2add/-/grunt-svn-noversion2add-0.1.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sesamewen",
+      "email": "1013014002@qq.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/grunt-svn-noversion2add/-/grunt-svn-noversion2add-0.1.2.tgz"
+}
