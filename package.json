@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "grunt-svn-noversion2add",
   "description": "a grunt plugin to change the svn status no-version to add",
   "version": "0.1.2",
+=======
+  "name": "grunt-svnNoversionToAdd",
+  "description": "a grunt plugin to change the svn status no-version to add",
+  "version": "0.1.0",
+>>>>>>> 2c9cad537691a5c6052dd30a48ff60435f20eeb5
   "homepage": "https://github.com/whenios/grunt-svnNoversionToAdd",
   "author": {
     "name": "sesamewen",
@@ -23,14 +29,22 @@
     "test": "grunt test"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "grunt": "~0.4.5",
     "iconv-lite": ">=0.4.11"
+=======
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+>>>>>>> 2c9cad537691a5c6052dd30a48ff60435f20eeb5
   },
   "peerDependencies": {
     "grunt": "~0.4.5"
   },
   "keywords": [
     "gruntplugin"
+<<<<<<< HEAD
   ],
   "gitHead": "6b849211aafce47b9f0959536c48516d5cb407a8",
   "_id": "grunt-svn-noversion2add@0.1.2",
@@ -55,3 +69,7 @@
   "directories": {},
   "_resolved": "https://registry.npmjs.org/grunt-svn-noversion2add/-/grunt-svn-noversion2add-0.1.2.tgz"
 }
+=======
+  ]
+}
+>>>>>>> 2c9cad537691a5c6052dd30a48ff60435f20eeb5

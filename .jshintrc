@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "curly": true,
   "eqeqeq": true,
@@ -11,3 +12,18 @@
   "eqnull": true,
   "node": true
 }
+=======
+{
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "boss": true,
+  "eqnull": true,
+  "node": true
+}
+>>>>>>> 2c9cad537691a5c6052dd30a48ff60435f20eeb5
